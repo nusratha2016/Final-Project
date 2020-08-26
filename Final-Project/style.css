@@ -18,10 +18,75 @@
   margin: 3rem;
 }
 
-.img {
+.img1 {
   display: flex;
   margin: auto;
+}
 
+.img2 {
+  display: flex;
+  margin: auto;
+}
+
+.img3 {
+  display: flex;
+  margin: rauto;
+}
+
+.img4 {
+  display: flex;
+  margin: auto;
+}
+
+.img5 {
+  display: flex;
+  margin: auto;
+}
+
+.img6 {
+  display: flex;
+  margin: auto;
+}
+
+.img7 {
+  display: flex;
+  margin: auto;
+}
+
+.img8 {
+  display: flex;
+  margin: auto;
+}
+
+.img9 {
+  display: flex;
+  margin: auto;
+}
+
+.img10 {
+  display: flex;
+  margin: auto;
+}
+
+.Myself {
+  display: flex;
+  margin: auto;
+}
+
+.link {
+  display: center;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  color: black;
+}
+
+a {
+  color: purple;
 }
 
 h2 {
